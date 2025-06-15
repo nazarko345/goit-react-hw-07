@@ -17,7 +17,3 @@ export default function ContactList() {
     </ul>
   );
 }
-
-// <li key={contact.id}>
-//   {contact.name}: {contact.tel}
-// </li>
